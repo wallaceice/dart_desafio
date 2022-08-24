@@ -16,4 +16,4 @@
 
     1. vá para test/desafio_tecnico_escribo_test.dart
 
-    2. clique em rodar
+    2. clique em run
