@@ -7,7 +7,7 @@
  * ### **Rodar o projeto**
     1. No VSCODE vá em extensôes>dart, configurações da extensao, dart>cli  console> selecionar terminal ou external terminal, para rodar o codigo no terminal!
 
-    2. vá para lib/desafio_tecnico_escribo.dart
+    2. vá para lib/main.dart.dart
 
     3. em main() rode o codigo(clique em Run)
 
